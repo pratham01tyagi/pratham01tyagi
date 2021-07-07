@@ -3,7 +3,7 @@
 ##
 ## I AM PRATHAM . 3rd YEAR STUDENT AT UNIVERSITY OF PETROLEUM AND ENERGY STUDIES PURSUING B.Tech SPECILISATION IN DevOps...
 ##
-- print( 🔭 DevOps Engineer) 
+- PRINT( 🔭 DevOps Engineer) 
 
 
 - PRINT(🌱 Currently Learning at 30.4159° N, 77.9668° E)
