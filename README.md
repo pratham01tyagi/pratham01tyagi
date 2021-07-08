@@ -1,7 +1,7 @@
 #                                                                   Hey!  	 <span style='font-size:100px;'>&#128512;</span>
 
 ##
-## I AM PRATHAM . 3rd YEAR STUDENT AT UNIVERSITY OF PETROLEUM AND ENERGY STUDIES PURSUING B.Tech SPECILISATION IN DevOps...
+## 3rd YEAR STUDENT AT UNIVERSITY OF PETROLEUM AND ENERGY STUDIES PURSUING B.Tech SPECILISATION IN DevOps...
 ##
 - PRINT( 🔭 DevOps Engineer) 
 
