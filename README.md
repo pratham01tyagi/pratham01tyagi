@@ -10,7 +10,7 @@
 - PRINT(👯 I’m looking to collaborate on Intresting Projcts)
 - PRINT(💬 Ask me about DevOps, Cars and Data Science.) 
 - PRINT(⚡ Fun fact: Devlopment of DevOps was due to fight of DEVLOPMENT & OPERATION TEAM.)
-- PRINT(POSESS SOME KNOWLEDGE OF - PYTHON, MICROSOFT EXCEL, IBM COGNOS, DATA SCIENCE, JAVA ECT. )
+- PRINT(POSESS SOME KNOWLEDGE OF - PYTHON, MICROSOFT EXCEL,TRELLO, IBM COGNOS, DATA SCIENCE, JAVA ECT. )
 ----------------------------------------------------------------------------------------------------------------------
 
 
